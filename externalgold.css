@@ -1,0 +1,131 @@
+.options{
+    float: right; 
+    padding-right: 50px;
+    line-height: 20px;
+    
+}
+
+.objects{
+    list-style: none;
+    
+    
+}
+.objects a {
+    display: inline-block;
+    text-decoration: none;
+    color: white;
+    margin: 10px;
+}
+.objects a:hover{
+    color: yellow;
+
+}
+.Search{
+    border: 2px solid gold;
+    background-color: black;
+}
+.banner{
+    padding-left: 5%;
+    border: solid 0.5px gold;
+    
+}
+#text{
+    color: gold;
+}
+#btn{
+    border: 2px solid gold;height: 45px;
+    background-color: black;
+    
+}
+#btn a{
+    list-style: none;
+    text-decoration: none;
+    text-align: center;
+        
+}
+#btn a:hover{
+    color: gold;
+}
+.img{
+       position: absolute;top: 25%;right: 10%;   
+}
+#text2{
+    text-align: center;
+}
+#btn1{
+    border: 2px solid gold;
+    background-color: black;
+}
+#btn1 a{
+    text-decoration: none;
+    text-align: center;
+}
+#btn1:hover{
+    background-color: gold;
+    
+}
+.images ul li{
+    display: inline-block;
+    margin: 100px;
+
+}
+.img5{
+    position: relative;left: 50px;top: 40%;
+    float: left;
+}
+.text3{
+    padding-left: 700px;
+    text-align: center;
+}
+.abut{
+    text-decoration: none;
+    
+    list-style: none;
+    text-align: center;
+}
+#abut1:hover{
+    background-color: gold;
+}
+.brd{
+    text-align: center;
+}
+#text3{
+    color: gold;
+    font-size: small;
+}
+.menu{
+    padding-left: 30px;
+    float: left;
+}
+#text4{
+    color: white;
+    font-size: large;
+}
+.product{ 
+    margin-left: 30%;  
+    float: left;
+}
+.img6{
+    margin-left: 20%;
+}
+.img7{
+    position: relative;left: 40px;
+    float: left;
+}
+.text5{
+    position: relative;top: 60px;left: 30%;
+}
+.btn2{
+    text-align: start;
+    background-color: black;
+    border: solid 1px gold;height: 40px;width: 20%;
+    border-radius: 10px;
+}
+#btn2{
+    text-decoration: none;
+    color:gold;
+}
+.foot1{
+    
+    
+}
